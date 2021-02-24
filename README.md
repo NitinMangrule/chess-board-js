@@ -1,3 +1,6 @@
 # chess-board-js
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/chess-board-js)
+
+## Live Demo
+
+https://nitinmangrule.github.io/chess-board-js/
